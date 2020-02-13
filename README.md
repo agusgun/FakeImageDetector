@@ -25,3 +25,6 @@ Combine the implementation of error-level analysis (ELA) and deep learning to de
 ## Result
 - Convergence: Epoch 9
 - Best accuracy: 91.83% (epoch 9)
+
+## Dataset
+Please refer to issue [#1](https://github.com/agusgun/FakeImageDetector/issues/1).
